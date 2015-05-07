@@ -4,14 +4,14 @@ Python examples for working with stratigraphic data from Stratigy
 This repository contains example code in the form of IPython Notebooks
 (now also known as [Jupyter Notebooks](http://jupyter.org/)).
 
-The examples load data from [Stratigy](stratigy.danielkerkow.de), a
+The examples load data from [Stratigy](http://stratigy.danielkerkow.de), a
 key-value based representation of stratigraphical data in a PostgreSQL
 database, with a web frontend written in Python, and a JSON-based API.
 
 For working with stratigraphic data with Stratigy, follow these simple
 steps:
 
- - go to [stratigy.danielkerkow.de](stratigy.danielkerkow.de) and create
+ - go to [http://stratigy.danielkerkow.de](stratigy.danielkerkow.de) and create
  a site representing the location of your stratigraphical record
  - enter your stratigraphical records for this site
  - clone this repository or download the notebook
