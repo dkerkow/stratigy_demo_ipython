@@ -11,7 +11,7 @@ database, with a web frontend written in Python, and a JSON-based API.
 For working with stratigraphic data with Stratigy, follow these simple
 steps:
 
- - go to [http://stratigy.danielkerkow.de](stratigy.danielkerkow.de) and create
+ - go to [stratigy.danielkerkow.de](http://stratigy.danielkerkow.de) and create
  a site representing the location of your stratigraphical record
  - enter your stratigraphical records for this site
  - clone this repository or download the notebook
